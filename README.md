@@ -92,8 +92,8 @@ This project demonstrates practical application of **Data Structures & Algorithm
 ## How to Compile and Run
 
 ```bash
-g++ main.cpp -o TreasureMaze
-TreasureMaze
+g++ game.c++ -o game.exe
+./game
 ```
 
 > Ensure your terminal supports **UTF-8** and **ANSI colors**.
